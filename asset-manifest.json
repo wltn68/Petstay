@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Petstay/login/static/css/main.842901a1.css",
-    "main.js": "/Petstay/login/static/js/main.755f132d.js",
-    "static/js/787.6004a535.chunk.js": "/Petstay/login/static/js/787.6004a535.chunk.js",
-    "index.html": "/Petstay/login/index.html",
-    "main.842901a1.css.map": "/Petstay/login/static/css/main.842901a1.css.map",
-    "main.755f132d.js.map": "/Petstay/login/static/js/main.755f132d.js.map",
-    "787.6004a535.chunk.js.map": "/Petstay/login/static/js/787.6004a535.chunk.js.map"
+    "main.css": "/Petstay/static/css/main.842901a1.css",
+    "main.js": "/Petstay/static/js/main.ca92ef07.js",
+    "static/js/787.6004a535.chunk.js": "/Petstay/static/js/787.6004a535.chunk.js",
+    "index.html": "/Petstay/index.html",
+    "main.842901a1.css.map": "/Petstay/static/css/main.842901a1.css.map",
+    "main.ca92ef07.js.map": "/Petstay/static/js/main.ca92ef07.js.map",
+    "787.6004a535.chunk.js.map": "/Petstay/static/js/787.6004a535.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.842901a1.css",
-    "static/js/main.755f132d.js"
+    "static/js/main.ca92ef07.js"
   ]
 }
