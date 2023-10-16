@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Petstay/static/css/main.842901a1.css",
-    "main.js": "/Petstay/static/js/main.f89f5b2a.js",
+    "main.js": "/Petstay/static/js/main.5db5b9d0.js",
     "static/js/787.6004a535.chunk.js": "/Petstay/static/js/787.6004a535.chunk.js",
     "index.html": "/Petstay/index.html",
     "main.842901a1.css.map": "/Petstay/static/css/main.842901a1.css.map",
-    "main.f89f5b2a.js.map": "/Petstay/static/js/main.f89f5b2a.js.map",
+    "main.5db5b9d0.js.map": "/Petstay/static/js/main.5db5b9d0.js.map",
     "787.6004a535.chunk.js.map": "/Petstay/static/js/787.6004a535.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.842901a1.css",
-    "static/js/main.f89f5b2a.js"
+    "static/js/main.5db5b9d0.js"
   ]
 }
